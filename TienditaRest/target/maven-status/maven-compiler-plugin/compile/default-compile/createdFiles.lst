@@ -1,0 +1,13 @@
+pe\com\tiendita\restcontroller\CategoriaRestController.class
+pe\com\tiendita\repository\CategoriaRepository.class
+pe\com\tiendita\restcontroller\ProductoRestController.class
+pe\com\tiendita\TienditaRestApplication.class
+pe\com\tiendita\entity\CategoriaEntity$CategoriaEntityBuilder.class
+pe\com\tiendita\service\impl\ProductoServiceImpl.class
+pe\com\tiendita\service\impl\CategoriaServiceImpl.class
+pe\com\tiendita\service\CategoriaService.class
+pe\com\tiendita\entity\CategoriaEntity.class
+pe\com\tiendita\entity\ProductoEntity$ProductoEntityBuilder.class
+pe\com\tiendita\repository\ProductoRepository.class
+pe\com\tiendita\service\ProductoService.class
+pe\com\tiendita\entity\ProductoEntity.class
